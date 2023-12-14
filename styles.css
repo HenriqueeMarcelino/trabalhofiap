@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara&display=swap');
+
+
+body {
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.content {
+    background: linear-gradient(180deg, #3BB5EE, #1F63D2);
+
+    height: 100dvh;
+    width: 100dvw;
+    
+}
+
+.imagem-principal{
+    padding: 20px 0px ;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    font-family: 'Jua', sans-serif;
+    color: white;
+}
+
+.sub{
+    color: white;
+    font-size: 20px;
+}
+
+.radius{
+    border-radius: 20px;
+    color: #2E8BD3;
+    font-weight: bold;
+}
+
+.margin{
+    margin-top: 10dvh;
+}
